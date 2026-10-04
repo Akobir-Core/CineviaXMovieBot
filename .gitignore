@@ -1,0 +1,13 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+backups/
+logs/
+*.sqlite
+*.sqlite3
